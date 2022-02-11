@@ -1,4 +1,4 @@
-# Tema la taille des rat
+# Tema la taille des rats
 
 Jeu réalisé dans le cadre de la gamejam TUMO Paris 1 pendant le festival >ready >player au Forum Des Images.
 
